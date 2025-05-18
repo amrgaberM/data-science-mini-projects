@@ -10,7 +10,7 @@ Each project in this repository focuses on a specific aspect of the data science
 - **Description**: EDA on Zomato’s restaurant dataset, focusing on location, cuisine trends, ratings, and delivery metrics.
 - **Tools**: Python, Pandas, Seaborn, Matplotlib
 
-### 2. [COVID-19 Global Trends](./covid19-global-trends)
+### 2. [COVID-19 Global Trends](https://github.com/amrgaberM/data-science-mini-projects/tree/main/Covid-19-EDA)
 - **Description**: Analysis of COVID-19 global cases and trends over time, including regional comparisons and visualizations.
 - **Tools**: Python, Plotly, Pandas, GeoPandas
 
@@ -37,5 +37,5 @@ Check out my [Data Science Portfolio](https://github.com/your-username/data-scie
 
 ## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [email@example.com].
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/amrhassangaber/) or [amrgabeerr20@gmail.com].
 
