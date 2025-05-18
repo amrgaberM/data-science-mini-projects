@@ -6,7 +6,7 @@ Each project in this repository focuses on a specific aspect of the data science
 
 ## 📂 Project List
 
-### 1. [Zomato Restaurant Analysis]([./zomato-eda-analysis](https://github.com/amrgaberM/data-science-mini-projects/tree/main/zomato-eda-analysis))
+### 1. [Zomato Restaurant Analysis](https://github.com/amrgaberM/data-science-mini-projects/tree/main/zomato-eda-analysis)
 - **Description**: EDA on Zomato’s restaurant dataset, focusing on location, cuisine trends, ratings, and delivery metrics.
 - **Tools**: Python, Pandas, Seaborn, Matplotlib
 
