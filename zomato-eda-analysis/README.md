@@ -31,6 +31,3 @@ This project analyzes Zomato restaurant data to explore ratings, costs, and serv
 2. Open the Jupyter Notebook (`.ipynb`) file inside the `notebooks` folder.  
 3. Run the cells step-by-step to reproduce the analysis and visualizations.
 
-## Contact
-For any questions or collaboration, feel free to reach out!  
-[[LinkedIn](https://www.linkedin.com/in/amrhassangaber/)]
