@@ -31,7 +31,7 @@ They are kept lightweight and focused, and serve as knowledge references and pra
 ## 📌 Note
 
 Larger and production-ready projects (e.g., model deployment, dashboards) are available in their own dedicated repositories.  
-Check out my [Data Science Portfolio](https://github.com/your-username/data-science-portfolio) for more.
+Check out my [Data Science Portfolio](https://github.com/amrgaberM/data-science-portfolio) for more.
 
 ---
 
